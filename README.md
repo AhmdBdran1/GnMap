@@ -39,16 +39,16 @@ download output file and follow the simulationVideo steps
 
 
 
-![insert the data:](/GnMap/img/66.jpg)
+![insert the data:](img/66.jpg)
 
 
-![Progress Bar while the comparison is not done:](/img/33.jpg)
+![Progress Bar while the comparison is not done:](img/33.jpg)
 
-![oxford plot of the comparison :](/img/44.jpg)
+![oxford plot of the comparison :](img/44.jpg)
 
 
 
-![drew cycles :](/img/55.jpg)
+![drew cycles :](img/55.jpg)
 
 
 
