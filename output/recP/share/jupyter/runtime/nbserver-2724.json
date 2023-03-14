@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "G:\\work\\test\\project coin PP\\coin scrapper",
+  "password": false,
+  "pid": 2724,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "b32c5b3f784a8c42ffbda923addcde24e08cf4d90ec48244",
+  "url": "http://localhost:8888/"
+}

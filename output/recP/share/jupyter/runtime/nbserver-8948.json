@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "G:\\work\\test\\project pintrest bot",
+  "password": false,
+  "pid": 8948,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "538ca73a95dc8d7f5d5a5756a0f9f3b91811b48a6b2f30ef",
+  "url": "http://localhost:8888/"
+}
